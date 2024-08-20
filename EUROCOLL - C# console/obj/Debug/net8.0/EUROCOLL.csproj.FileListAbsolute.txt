@@ -1,0 +1,28 @@
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\bin\Debug\net8.0\EUROCOLL.exe
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\bin\Debug\net8.0\EUROCOLL.deps.json
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\bin\Debug\net8.0\EUROCOLL.runtimeconfig.json
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\bin\Debug\net8.0\EUROCOLL.dll
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\bin\Debug\net8.0\EUROCOLL.pdb
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\EUROCOLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\EUROCOLL.AssemblyInfoInputs.cache
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\EUROCOLL.AssemblyInfo.cs
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\EUROCOLL.csproj.CoreCompileInputs.cache
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\EUROCOLL.dll
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\refint\EUROCOLL.dll
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\EUROCOLL.pdb
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\EUROCOLL.genruntimeconfig.cache
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL\obj\Debug\net8.0\ref\EUROCOLL.dll
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\bin\Debug\net8.0\EUROCOLL.exe
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\bin\Debug\net8.0\EUROCOLL.deps.json
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\bin\Debug\net8.0\EUROCOLL.runtimeconfig.json
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\bin\Debug\net8.0\EUROCOLL.dll
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\bin\Debug\net8.0\EUROCOLL.pdb
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\EUROCOLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\EUROCOLL.AssemblyInfoInputs.cache
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\EUROCOLL.AssemblyInfo.cs
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\EUROCOLL.csproj.CoreCompileInputs.cache
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\EUROCOLL.dll
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\refint\EUROCOLL.dll
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\EUROCOLL.pdb
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\EUROCOLL.genruntimeconfig.cache
+C:\Users\VincenzoBarreca\Desktop\EUROCOLL - Copia\obj\Debug\net8.0\ref\EUROCOLL.dll
