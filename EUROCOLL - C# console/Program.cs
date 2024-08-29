@@ -1,3 +1,0 @@
-﻿using EUROCOLL;
-
-Menu.Start();
